@@ -1,6 +1,6 @@
 {
   "name": "Jarvis - Política de Privacidade",
-  "description": "Portal oficial de Política de Privacidade, Conformidade LGPD e Termos de Proteção de Dados do aplicativo Jarvis - Gestão de Obras.",
+  "description": "Portal oficial de Política de Privacidade e Termos de Proteção de Dados do aplicativo Jarvis - Gestao de Obras.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
